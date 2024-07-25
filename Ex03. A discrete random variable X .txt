@@ -1,0 +1,77 @@
+Ex03. A discrete random variable X has the following probability distribution:
+
+Compute each of the following quantities.
+a. P(X=80) = 0.4 computed directly from the table
+
+b. P(X>80) = P(X= 81)  = 0.1
+
+c. P(X≤80) = P( X = 77) + P(X =78) + P(X =79) + P(X=80)= 0.9
+         = 1 - P(X>80) = 1 -0.1 = 0.9
+
+d. The mean μ of X 7777777777777777777777777777777777777777777
+      u = Zix1 * P(X= x1) = 77*0.15 + 78*0.15 +... = 79.15
+
+e. The variance σ2 of X
+ o2 =  
+
+f. The standard deviation σ
+
+
+Question 1.
+Critically evaluate each of the following terminology (A to H) as regard to web data analytics and describe
+the core method of extracting each of these from an ecommerce website like www.amazon.com.
+A. Clickstream
+B. Dimension
+C. Metric
+D. Bounce rate
+E. Pageview
+F. Conversion
+G. Goal
+H. KPI
+Sample Solution
+A. Clickstream
+Clickstream data captures the customer’s journey from the moment they enter your webpage to the time
+they exit. Any event that happened while the visitor is on the webpage are collected by JavaScript
+tracker codes placed on each html page. This made it possible to track all the event or how the customer
+engaged with the pages. The Java script could track the following events like; video played, downloads,
+registration, purchases and many more.
+B. Dimension
+This are category click stream contents, like the Source of traffic /Channels/Acquisition, devices, search
+engine etc. They could be similar to metric; the only difference is that metric are values while
+Dimension are categories.
+C. Metric
+The metrics commonly used to assess the performance of a webpages are contents and industrial
+dependent. This are the Click stream that we can measure. Most metrics a in numeric form.
+▪ Page View
+▪ Bounce/Bounce Rate
+▪ Average Session Duration
+▪ Dwell Time/Session
+
+D. Bounce rate
+This is the rate at which customer enters a web page and leave immediately without doing anything. It
+is a significant indication that all is not well with the web page. Why are customer's getting to the page
+and just leaving without engaging.
+E. Pageview
+What is the most popular page that users view, this will enable the owners to optimise the particular
+pages, and questions like; what made such pages popular? Can such information be used to improve
+other pages? So that other pages could become popular also. How can these popular pages be
+commercialised to generate incomes.
+
+F. Conversion
+Is when does a visit by a customer to a website led to the customer completing what the website is set
+up for. If video watching website, did the visitor convert by watching the video?
+If the website is for selling, did the customer convert by buying?
+If the website is for registration, did the customer convert by registering?
+G. Goal
+Goal and KPI are synonymous both are used to assess the performance of the website or pages. While
+KPI is a metric of measurement, the goal is threshold metric value. If KPI is downloading a movie. The
+Goal 200 people downloading movies per day. If KPI is people registering on your website. The Goal
+100 people registering on website per day.
+H. KPI
+KPI stands for Key Performance Indicators. This a term used to assess the performance of any metric.
+What metric should be used to measure the performance of websites? KPI are metrics set by the owners
+of the business. For example, it may be a particular value of metric eg downloading a movie in a day
+or people registering on your website. It could also be a collection of metrics that must be watched to
+know how the website is performing. KPI is a specifics target of measurement that shows that the
+website is performing or not.
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
