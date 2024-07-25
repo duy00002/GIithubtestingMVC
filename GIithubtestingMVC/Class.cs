@@ -1,6 +1,9 @@
-﻿namespace GIithubtestingMVC
+﻿using System.Runtime.InteropServices;
+
+namespace GIithubtestingMVC
 {
-    public class Class
+    public class Gitrepo
     {
+        const ClassInterfaceAttribute
     }
 }
